@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%7BcovidGraphTask%7D/static/css/main.dfc26e5d.chunk.css",
-    "main.js": "/%7BcovidGraphTask%7D/static/js/main.15748409.chunk.js",
-    "main.js.map": "/%7BcovidGraphTask%7D/static/js/main.15748409.chunk.js.map",
-    "runtime-main.js": "/%7BcovidGraphTask%7D/static/js/runtime-main.61e9ef47.js",
-    "runtime-main.js.map": "/%7BcovidGraphTask%7D/static/js/runtime-main.61e9ef47.js.map",
-    "static/js/2.ed650832.chunk.js": "/%7BcovidGraphTask%7D/static/js/2.ed650832.chunk.js",
-    "static/js/2.ed650832.chunk.js.map": "/%7BcovidGraphTask%7D/static/js/2.ed650832.chunk.js.map",
-    "index.html": "/%7BcovidGraphTask%7D/index.html",
-    "precache-manifest.1fdbc811fd277202ef501c06fc489583.js": "/%7BcovidGraphTask%7D/precache-manifest.1fdbc811fd277202ef501c06fc489583.js",
-    "service-worker.js": "/%7BcovidGraphTask%7D/service-worker.js",
-    "static/css/main.dfc26e5d.chunk.css.map": "/%7BcovidGraphTask%7D/static/css/main.dfc26e5d.chunk.css.map",
-    "static/js/2.ed650832.chunk.js.LICENSE.txt": "/%7BcovidGraphTask%7D/static/js/2.ed650832.chunk.js.LICENSE.txt"
+    "main.css": "/covidGraphTask/static/css/main.dfc26e5d.chunk.css",
+    "main.js": "/covidGraphTask/static/js/main.49306061.chunk.js",
+    "main.js.map": "/covidGraphTask/static/js/main.49306061.chunk.js.map",
+    "runtime-main.js": "/covidGraphTask/static/js/runtime-main.4046eb63.js",
+    "runtime-main.js.map": "/covidGraphTask/static/js/runtime-main.4046eb63.js.map",
+    "static/js/2.ed650832.chunk.js": "/covidGraphTask/static/js/2.ed650832.chunk.js",
+    "static/js/2.ed650832.chunk.js.map": "/covidGraphTask/static/js/2.ed650832.chunk.js.map",
+    "index.html": "/covidGraphTask/index.html",
+    "precache-manifest.c1ee3aa84752b0669105e2930424a9c5.js": "/covidGraphTask/precache-manifest.c1ee3aa84752b0669105e2930424a9c5.js",
+    "service-worker.js": "/covidGraphTask/service-worker.js",
+    "static/css/main.dfc26e5d.chunk.css.map": "/covidGraphTask/static/css/main.dfc26e5d.chunk.css.map",
+    "static/js/2.ed650832.chunk.js.LICENSE.txt": "/covidGraphTask/static/js/2.ed650832.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61e9ef47.js",
+    "static/js/runtime-main.4046eb63.js",
     "static/js/2.ed650832.chunk.js",
     "static/css/main.dfc26e5d.chunk.css",
-    "static/js/main.15748409.chunk.js"
+    "static/js/main.49306061.chunk.js"
   ]
 }
